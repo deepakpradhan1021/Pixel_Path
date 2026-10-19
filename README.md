@@ -6,9 +6,10 @@
 [![HTML5](https://img.shields.io/badge/HTML5-Canvas-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla%20ES6+-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/CSS3-Responsive-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Playable-Live%20Demo-brightgreen)](https://deepakpradhan1021.github.io/Pixel_Path/)
 
-[Play Online](https://deepakpradhan1021.github.io/Pixel_Path/) • [About This Project](#-about-this-project) • [Key Features](#-key-features) • [Game Controls](#-game-controls) • [Architecture](#-game-architecture--mechanics) • [Run Locally](#-how-to-run-locally) • [What I Learned](#-key-learnings--takeaways)
+[Play Online](https://deepakpradhan1021.github.io/Pixel_Path/) • [About This Project](#-about-this-project) • [Key Features](#-key-features) • [Game Controls](#-game-controls) • [Architecture](#-game-architecture--mechanics) • [Run Locally](#-how-to-run-locally) • [License](#-license)
 
 </div>
 
@@ -149,6 +150,10 @@ Because this game has zero external dependencies, running it locally requires no
 - [ ] Add sound effect toggle button (mute/unmute).
 - [ ] Add speedrun timer and personal best records per level.
 - [ ] Introduce additional enemy types (flying obstacles and hazard spikes).
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
