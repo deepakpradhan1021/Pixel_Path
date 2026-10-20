@@ -23,7 +23,7 @@ Play the full 20-level retro game directly in your browser:
 <br>
 
 <div align="center">
-  <img src="screenshot.png" alt="Pixel Path Gameplay Screenshot" width="850">
+  <img src="gameplay.gif" alt="Pixel Path Gameplay Preview" width="800">
 </div>
 
 ---
